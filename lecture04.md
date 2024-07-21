@@ -25,7 +25,7 @@ RDS構成内容
   
 ## ・EC2からRDSに接続
   
-![Image 06](images/ec2からrdsの接続.png) 
+![Image 06](images/ec2-rds.png) 
 
 
 ## ・課題を終えての感想  
