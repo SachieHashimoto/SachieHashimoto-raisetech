@@ -22,6 +22,26 @@ RDS構成内容
 ![Image 04](images/rds-1.png)
   
 ![Image 05](images/rds-2.png) 
+
+### 追記 セキュリティグループの詳細
+「rds-ec2-1」  
+
+![Image 07](images/rds-ec2-1.png)  
+  
+
+「sachi-raisetech-db 1-sg 」インバウンド
+    
+![Image 08](images/sachi-raisetech-db1-sg-inbound.png) 
+  
+
+「sachi-raisetech-db  1-sg 」アウトバウンド
+   
+![Image 09](images/sachi-raisetech-db1-sg-outbound.png) 
+
+### 追記　サブネットグループの詳細
+  
+![Image 10](images/subnet-0dd10cfa9726a1574.png)  
+![Image 11](images/subnet-0847f4621759c8a10.png)  
   
 ## ・EC2からRDSに接続
   
